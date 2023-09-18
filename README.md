@@ -1,4 +1,4 @@
-# # Beans Leaf Disease Classification App
+# Beans Leaf Disease Classification App
 
 ## About : 
 
