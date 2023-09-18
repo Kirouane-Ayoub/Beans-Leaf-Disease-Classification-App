@@ -28,12 +28,6 @@ The goal of this model is to classify leaf images into three categories:
 | 0.1495        | 1.54  | 100  | 0.0910          | 0.9774   |
 | 0.0121        | 3.08  | 200  | 0.0155          | 1.0      |
 
-## Framework versions : 
-+ Transformers 4.33.2
-+ Pytorch 2.0.1+cu118
-+ Datasets 2.14.5
-+ Tokenizers 0.13.3
-
 ## APP Usage : 
 
 ```
