@@ -10,7 +10,8 @@ This is a Streamlit web application that utilizes a fine-tuned Vision Transforme
 * **Task**: Image Classification (Beans Leaf Disease Classification)
 * **Dataset**: Beans leaf dataset with images of diseased and healthy leaves.
 
-**https://huggingface.co/ayoubkirouane/VIT_Beans_Leaf_Disease_Classifier**
+* Model : **https://huggingface.co/ayoubkirouane/VIT_Beans_Leaf_Disease_Classifier**
+* Space : **https://huggingface.co/spaces/ayoubkirouane/VIT_Beans_Leaf_Disease_Classifier**
 
 ## Problem Statement
 The goal of this model is to classify leaf images into three categories:
