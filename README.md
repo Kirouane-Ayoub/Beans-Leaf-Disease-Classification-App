@@ -32,7 +32,15 @@ The goal of this model is to classify leaf images into three categories:
 
 ## APP Usage : 
 
+* You can use streamlit :
 ```
 pip install -r requirements.txt
 streamlit run app.py
 ```
+* or you can use this Gradio APP 
+```
+cd Gradio/
+pip install -r requirements.txt
+python app.py
+```
+![Screenshot at 2023-09-20 12-21-59](https://github.com/Kirouane-Ayoub/Beans-Leaf-Disease-Classification-App/assets/99510125/40fbc0e2-75a4-454a-bfc1-4cd2326e7ed0)
